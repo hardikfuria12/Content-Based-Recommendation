@@ -1,4 +1,5 @@
-Instructions for successfully run this assignment.
+# Content Based Recommendation System
+## Steps
 1. We need Elastic Search for this Project
 2. Go to https://www.elastic.co/downloads/elasticsearch. Depending upon your OS, download the software.
 3. Replace the 'elasticsearch.yml' in the config file with the one attached in this submission.
